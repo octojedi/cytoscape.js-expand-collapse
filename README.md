@@ -268,3 +268,4 @@ This project is set up to automatically be published to npm and bower.  To publi
 ## Alumni
 
   * [Alper Karacelik](https://github.com/alperkaracelik), [Ilkin Safarli](https://github.com/kinimesi), [Nasim Saleh](https://github.com/nasimsaleh), [Selim Firat Yilmaz](https://github.com/mrsfy)
+    
